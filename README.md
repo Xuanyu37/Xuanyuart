@@ -1,4 +1,4 @@
-# SANQI Artist Website — v0.0.2 · Clean
+# SANQI Artist Website — v0.0.2
 
 这是可直接放到 GitHub 并由 Cloudflare Pages 构建的**纯净版**项目。
 
