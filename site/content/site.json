@@ -1,0 +1,166 @@
+{
+  "version": "0.0.3",
+  "name": "SANQI",
+  "defaultLanguage": "fr",
+  "languages": {
+    "fr": "FR",
+    "en": "EN",
+    "zh": "中文"
+  },
+  "navigation": {
+    "home": {
+      "fr": "Accueil",
+      "en": "Home",
+      "zh": "首页"
+    },
+    "works": {
+      "fr": "Œuvres",
+      "en": "Works",
+      "zh": "作品"
+    },
+    "cv": {
+      "fr": "CV",
+      "en": "CV",
+      "zh": "CV"
+    },
+    "about": {
+      "fr": "À propos",
+      "en": "About",
+      "zh": "关于"
+    },
+    "contact": {
+      "fr": "Contact",
+      "en": "Contact",
+      "zh": "联系"
+    }
+  },
+  "ui": {
+    "close": {
+      "fr": "Fermer",
+      "en": "Close",
+      "zh": "关闭"
+    },
+    "dark": {
+      "fr": "Mode sombre",
+      "en": "Dark mode",
+      "zh": "夜间模式"
+    },
+    "light": {
+      "fr": "Mode clair",
+      "en": "Light mode",
+      "zh": "日间模式"
+    },
+    "all": {
+      "fr": "Tout",
+      "en": "All",
+      "zh": "全部"
+    },
+    "year": {
+      "fr": "Année",
+      "en": "Year",
+      "zh": "年份"
+    },
+    "medium": {
+      "fr": "Médium",
+      "en": "Medium",
+      "zh": "媒介"
+    },
+    "series": {
+      "fr": "Série",
+      "en": "Series",
+      "zh": "系列"
+    },
+    "backWorks": {
+      "fr": "← Retour aux œuvres",
+      "en": "← Back to Works",
+      "zh": "← 返回作品"
+    },
+    "noWorks": {
+      "fr": "Aucune œuvre ne correspond à ces filtres.",
+      "en": "No works match these filters.",
+      "zh": "没有符合当前筛选条件的作品。"
+    },
+    "loadError": {
+      "fr": "Impossible de charger ce contenu.",
+      "en": "Unable to load this content.",
+      "zh": "无法加载此内容。"
+    },
+    "notFound": {
+      "fr": "Contenu introuvable.",
+      "en": "Content not found.",
+      "zh": "未找到内容。"
+    },
+    "worksCountOne": {
+      "fr": "1 œuvre",
+      "en": "1 work",
+      "zh": "1 件作品"
+    },
+    "worksCountMany": {
+      "fr": "{n} œuvres",
+      "en": "{n} works",
+      "zh": "{n} 件作品"
+    },
+    "biography": {
+      "fr": "Biographie",
+      "en": "Biography",
+      "zh": "个人简介"
+    },
+    "statement": {
+      "fr": "Démarche artistique",
+      "en": "Artist Statement",
+      "zh": "创作陈述"
+    },
+    "downloadCV": {
+      "fr": "PDF ↓",
+      "en": "PDF ↓",
+      "zh": "PDF ↓"
+    }
+  },
+  "mediums": {
+    "painting": {
+      "fr": "Peinture",
+      "en": "Painting",
+      "zh": "绘画"
+    },
+    "drawing": {
+      "fr": "Dessin",
+      "en": "Drawing",
+      "zh": "素描 / 纸上作品"
+    },
+    "photography": {
+      "fr": "Photographie",
+      "en": "Photography",
+      "zh": "摄影"
+    },
+    "installation": {
+      "fr": "Installation",
+      "en": "Installation",
+      "zh": "装置"
+    },
+    "sculpture": {
+      "fr": "Sculpture",
+      "en": "Sculpture",
+      "zh": "雕塑"
+    },
+    "video": {
+      "fr": "Vidéo",
+      "en": "Video",
+      "zh": "视频"
+    },
+    "sound": {
+      "fr": "Son",
+      "en": "Sound",
+      "zh": "声音"
+    },
+    "performance": {
+      "fr": "Performance",
+      "en": "Performance",
+      "zh": "行为 / 表演"
+    },
+    "digital": {
+      "fr": "Numérique",
+      "en": "Digital",
+      "zh": "数字媒介"
+    }
+  }
+}
